@@ -13,7 +13,6 @@ An Express Js server for Ecommerce with TypeScript, JWT Token validation, Mongoo
 2. Make sure mongodb is running
 3. Install dependencies: `npm`
 4. Use this command for development mode: `npm run start:dev`
-5. If you need to customize your env, take a look at `secrets.ts` file
 
 ## Features
 
